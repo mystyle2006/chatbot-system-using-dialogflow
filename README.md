@@ -10,4 +10,4 @@ common: eslint, prettier, git
 
 ## Architecture
 
-[](./dialogflow_archi.png)
+![Architcture](./dialogflow_archi.png)
